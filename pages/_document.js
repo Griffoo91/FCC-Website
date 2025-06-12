@@ -6,7 +6,7 @@ export default function Document() {
 			<Head>
 				<meta
 					name="description"
-					content="Church Blog. Project of Numo Francis, an expert in crafting software solutions that address unique challenges and measurably impact the bottom line."
+					content="Church Blog. Project of Griffine Ombogo, a self-driven expert in crafting software solutions that address unique challenges and measurably impact the bottom line."
 				/>
 				<meta
 					name="keywords"
@@ -16,14 +16,14 @@ export default function Document() {
 				<meta property="og:title" content="Church Blog" />
 				<meta
 					property="og:description"
-					content="Church Blog. Project of Numo Francis, an expert in crafting software solutions that address unique challenges and measurably impact the bottom line."
+					content="Church Blog. Project of Griffine Ombogo, a self-driven expert in crafting software solutions that address unique challenges and measurably impact the bottom line."
 				/>
 
 				<meta property="og:image:alt" content="Church Blog" />
 				<meta property="og:locale" content="en_GB" />
 				<meta property="og:type" content="website" />
 				<meta name="twitter:card" content="summary_large_image" />
-				<meta property="og:url" content="https://glorioushill.vercel.app/" />
+				<meta property="og:url" content="https://fcc.vercel.app/" />
 				<meta name="twitter:card" content="summary" />
 				<meta name="theme-color" content="#000000" />
 				<meta name="robots" content="index, follow" />

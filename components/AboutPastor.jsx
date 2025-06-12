@@ -4,7 +4,7 @@ export const AboutPastor = () => {
 	return (
 		<div className="min-h-[45vh] md:min-h-[40vh] relative bg-stone-800 text-white">
 			<Image
-				src={'/assets/pastor3.png'}
+				src={'/assets/avata.jpg'}
 				width={1200}
 				height={400}
 				alt=""
@@ -18,7 +18,7 @@ export const AboutPastor = () => {
 					</h1>
 
 					<p className="text-amber-500 text-sm">
-						Rev. Michael Ochieng
+						Rev. Michael Ochieng'
 					</p>
 
 					<p className="text-gray-200 text-sm sm:text-md text-center">

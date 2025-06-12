@@ -51,7 +51,7 @@ export const Layout = ({ children, title }) => {
 	return (
 		<>
 			<Head>
-				<title>{title ? title + ' - Glorious Hill' : 'Glorious Hill'}</title>
+				<title>{title ? title + ' - Faith Celebration Center' : 'Faith Celebration Center'}</title>
 			</Head>
 
 			<div className="flex flex-col">
@@ -62,7 +62,7 @@ export const Layout = ({ children, title }) => {
 						}`}
 					>
 						<Link href={'/#home'} className="sm:text-lg font-bold z-30">
-							GLORIOUS HILL MINISTRIES
+							FAITH CELEBRATION CENTER
 						</Link>
 
 						<div className="hidden md:flex space-x-6 uppercase">
