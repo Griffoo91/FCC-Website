@@ -8,14 +8,14 @@ import { SlArrowRight, SlArrowLeft } from 'react-icons/sl';
 import { motion } from 'framer-motion';
 
 const images = [
-	'/asset/gallery/women.jpg',
+	'/assets/gallery/womenpic.jpg',
 	'/asset/gallery/pastorNic.jpg',
 	'/asset/gallery/worship1.jpg',
 	'/assets/gallery/kids.jpg',
 	'/assets/gallery/worship.jpg',
-	'/asset/gallery/event.jpg',
+	'/assets/gallery/event.jpg',
 	'/assets/gallery/kid.jpg',
-	'/asset/gallery/youth.jpg',
+	'/assets/gallery/youth.jpg',
 ];
 
 const Gallery = () => {
@@ -55,7 +55,7 @@ const Gallery = () => {
 			<Layout>
 				<div className="h-[25vh] md:h-[30vh] text-white relative transition-all duration-300 ease-out">
 					<Image
-						src={'/assets/gallery/women1.jpg'}
+						src={'/assets/gallery/womenpic.jpg'}
 						alt="Gallery Background"
 						width={2000}
 						height={2000}
